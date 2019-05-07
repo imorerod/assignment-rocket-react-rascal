@@ -17,4 +17,4 @@ class GyrohopicSensor extends Component { // I said a hip hop Hippie to the hipp
     }
 }
 
-export default GyroscopicSensor;
+export default GyrohopicSensor;
